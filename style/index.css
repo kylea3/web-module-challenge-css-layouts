@@ -115,3 +115,27 @@ p {
     border-style: solid;
 
 }
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 5rem;
+}
+
+.button {
+    text-decoration: none;
+    color: black;
+    padding: .5rem;
+    border: .1rem;
+    border-style: solid; 
+    border-color: black;
+}
+
+.center {
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    
+    
+}
